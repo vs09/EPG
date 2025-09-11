@@ -490,6 +490,7 @@
 <channel id="DKISS">1:0:1F:2C2A:3F6:1:C00000:0:0:0</channel> <!-- DKISS -->
 <channel id="Real Madrid TV">1:0:1F:2BCD:40C:1:C00000:0:0:0</channel> <!-- RealMadrid TV -->
 <channel id="24 Horas">1:0:1F:2C26:3F6:1:C00000:0:0:0</channel> <!-- 24h HD -->
+<channel id="TRECE">1:0:1F:2C29:3F6:1:C00000:0:0:0</channel> <!-- TRECE -->
 
 <!-- INFO TDT IPTV-->
 <channel id="Esport 3 HD">0:0:0</channel> <!-- Esport 3 HD -->
