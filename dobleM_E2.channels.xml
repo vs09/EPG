@@ -157,7 +157,6 @@
 <!--MOVSAT131--> <channel id="LaLiga TV Bar 2">1:0:1:76C5:40E:1:C00000:0:0:0</channel>
 <!--MOVSAT132--> <channel id="LaLiga TV Bar 3">1:0:1:769A:41E:1:C00000:0:0:0</channel>
 <!--MOVSAT133--> <channel id="LaLiga TV Bar 4">1:0:1:7830:428:1:C00000:0:0:0</channel>
-<!--MOVSAT134--> <channel id="LaLiga TV Bar 5">1:0:1:7822:428:1:C00000:0:0:0</channel>
 <!--MOVSAT135--> <channel id="DAZN 1 BAR">1:0:1:7574:412:1:C00000:0:0:0</channel>
 <!--MOVSAT136--> <channel id="DAZN 2 BAR">1:0:1:7582:412:1:C00000:0:0:0</channel>
 <!--MOVSAT137--> <channel id="PORTADA">1:0:1:759C:422:1:C00000:0:0:0</channel>
@@ -168,7 +167,14 @@
 <!--MOVSAT142--> <channel id="Primera Federación">1:0:1:7584:412:1:C00000:0:0:0</channel>
 <!--MOVSAT143--> <channel id="Primera Federación">1:0:19:7504:420:1:C00000:0:0:0</channel>
 <!--MOVSAT144--> <channel id="AXN Movies HD">1:0:1:757F:412:1:C00000:0:0:0</channel>
-
+<!--MOVSAT145--> <channel id="M+ Liga de Campeones 6">1:0:1:7829:428:1:C00000:0:0:0</channel>
+<!--MOVSAT146--> <channel id="M+ Liga de Campeones 7">1:0:1:7822:428:1:C00000:0:0:0</channel>
+<!--MOVSAT147--> <channel id="M+ Liga de Campeones 8">1:0:1:7824:428:1:C00000:0:0:0</channel>
+<!--MOVSAT146--> <channel id="M+ Liga de Campeones 9">1:0:1:782C:428:1:C00000:0:0:0</channel>
+<!--MOVSAT148--> <channel id="M+ Liga de Campeones 10">1:0:1:782F:428:1:C00000:0:0:0</channel>
+<!--MOVSAT149--> <channel id="M+ Liga de Campeones 11">1:0:1:7820:428:1:C00000:0:0:0</channel>
+<!--MOVSAT150--> <channel id="M+ Liga de Campeones 12">1:0:1:7821:428:1:C00000:0:0:0</channel>
+<!--MOVSAT151--> <channel id="M+ Liga de Campeones 13">1:0:1:782B:428:1:C00000:0:0:0</channel>
 
 <!-- INFO Movistar+ FIBRA-->
 <!--MOVFIB001--> <channel id="La 1 HD">1:0:19:7863:41A:1:C00000:0:0:0</channel>
@@ -489,4 +495,3 @@
 <channel id="Esport 3 HD">0:0:0</channel> <!-- Esport 3 HD -->
 <channel id="Los Conciertos de Radio 3 HD">0:0:0</channel> <!-- Los Conciertos de Radio 3 HD -->
 </channels>
-
