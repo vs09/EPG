@@ -472,7 +472,7 @@
 <channel id="AMC Crime">1:0:19:27F:426A:22D4:EEEE01EA:0:0:0</channel> <!-- CANAL AMC BREAK HD -->
 <channel id="Veo7">1:0:19:116:426A:22D4:EEEE01E2:0:0:0</channel> <!-- Veo 7 -->
 <channel id="Odisea">1:0:19:270:426B:22D4:EEEE0262:0:0:0</channel> <!-- CANAL ODISEA -->
-<channel id="CANAL DarkDorcel HD">1:0:19:286:426A:22D4:EEEE01EA:0:0:0</channel> <!-- CANAL DarkDorcel HD -->
+<channel id="DARK">1:0:19:286:426A:22D4:EEEE01EA:0:0:0</channel> <!-- CANAL DarkDorcel HD -->
 <channel id="Sundance TV">1:0:19:273:426B:22D4:EEEE0262:0:0:0</channel> <!-- CANAL DE CASA HD -->
 
 <!-- INFO TDT ALMERIA -->
