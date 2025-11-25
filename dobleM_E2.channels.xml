@@ -470,14 +470,14 @@
 
 <!-- INFO TDT CATALUÑA -->
 <channel id="Historia">1:0:19:274:26B:22D4:EEEE0262:0:0:0</channel> <!-- HISTORIA -->
-<channel id="CANAL BUEN VIAJE">1:0:19:281:427D:22D4:EEEE01F2:0:0:0</channel> <!-- CANAL BUEN VIAJE -->
-<channel id="CANAL COCINA">1:0:19:272:426B:22D4:EEEE0262:0:0:0</channel> <!-- CANAL COCINA -->
-<channel id="CANAL AMC BREAK HD">1:0:19:277:426A:22D4:EEEE01EA:0:0:0</channel> <!-- CANAL AMC BREAK HD -->
-<channel id="CANAL AMC CRIME ESP HD">1:0:19:27F:426A:22D4:EEEE01EA:0:0:0</channel> <!-- CANAL AMC BREAK HD -->
+<channel id="BuenViaje">1:0:19:281:427D:22D4:EEEE01F2:0:0:0</channel> <!-- CANAL BUEN VIAJE -->
+<channel id="Canal Cocina">1:0:19:272:426B:22D4:EEEE0262:0:0:0</channel> <!-- CANAL COCINA -->
+<channel id="AMC Break">1:0:19:277:426A:22D4:EEEE01EA:0:0:0</channel> <!-- CANAL AMC BREAK HD -->
+<channel id="AMC Crime">1:0:19:27F:426A:22D4:EEEE01EA:0:0:0</channel> <!-- CANAL AMC BREAK HD -->
 <channel id="Veo7">1:0:19:116:426A:22D4:EEEE01E2:0:0:0</channel> <!-- Veo 7 -->
-<channel id="CANAL ODISEA">1:0:19:270:426B:22D4:EEEE0262:0:0:0</channel> <!-- CANAL ODISEA -->
+<channel id="Odisea">1:0:19:270:426B:22D4:EEEE0262:0:0:0</channel> <!-- CANAL ODISEA -->
 <channel id="CANAL DarkDorcel HD">1:0:19:286:426A:22D4:EEEE01EA:0:0:0</channel> <!-- CANAL DarkDorcel HD -->
-<channel id="CANAL SUNDANCE HD">1:0:19:273:426B:22D4:EEEE0262:0:0:0</channel> <!-- CANAL DE CASA HD -->
+<channel id="Sundance TV">1:0:19:273:426B:22D4:EEEE0262:0:0:0</channel> <!-- CANAL DE CASA HD -->
 
 	
 <!-- INFO TDT ALMERIA -->
