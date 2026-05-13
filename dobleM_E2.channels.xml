@@ -183,6 +183,7 @@
 <!--MOVSAT157--> <channel id="DAZN Baloncesto 3">1:0:1:7695:41E:1:C00000:0:0:0</channel>
 <!--MOVSAT158--> <channel id="DAZN MotoGP">1:0:1:7569:412:1:C00000:0:0:0</channel>
 <!--MOVSAT102--> <channel id="M+ Baloncesto">1:0:1:768E:41E:1:C00000:0:0:0</channel>
+<!--MOVSAT102--> <channel id="M+ Baloncesto">1:0:19:7536:426:1:C00000:0:0:0</channel>	
 <!--MOVSAT067--> <channel id="M+ Baloncesto 2">1:0:1:756B:412:1:C00000:0:0:0</channel>
 	
 <!-- INFO Movistar+ FIBRA-->
