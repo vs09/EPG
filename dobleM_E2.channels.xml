@@ -176,8 +176,7 @@
 <!--MOVSAT150--> <channel id="M+ Liga de Campeones 12">1:0:1:7821:428:1:C00000:0:0:0</channel>
 <!--MOVSAT151--> <channel id="M+ Liga de Campeones 13">1:0:1:782B:428:1:C00000:0:0:0</channel>
 <!--MOVSAT152--> <channel id="BBC Earth">1:0:1:76C4:40E:1:C00000:0:0:0</channel>
-<!--MOVSAT153--> <channel id="BBC Lifestyle">1:0:1:76C3:40jjE:1:C00000:0:0:0</channel>
-<!--MOVSAT154--> <channel id="M+ Baloncesto 3">1:0:1:7893:414:1:C00000:0:0:0</channel>
+<!--MOVSAT153--> <channel id="BBC Lifestyle">1:0:1:76C3:40E:1:C00000:0:0:0</channel>
 <!--MOVSAT155--> <channel id="DAZN Baloncesto">1:0:1:7827:428:1:C00000:0:0:0</channel>
 <!--MOVSAT156--> <channel id="DAZN Baloncesto 2">1:0:1:7568:412:1:C00000:0:0:0</channel>
 <!--MOVSAT157--> <channel id="DAZN Baloncesto 3">1:0:1:7695:41E:1:C00000:0:0:0</channel>
@@ -185,6 +184,7 @@
 <!--MOVSAT102--> <channel id="M+ Baloncesto">1:0:1:768E:41E:1:C00000:0:0:0</channel>
 <!--MOVSAT102--> <channel id="M+ Baloncesto">1:0:19:7536:426:1:C00000:0:0:0</channel>	
 <!--MOVSAT067--> <channel id="M+ Baloncesto 2">1:0:1:756B:412:1:C00000:0:0:0</channel>
+<!--MOVSAT154--> <channel id="M+ Baloncesto 3">1:0:1:7893:414:1:C00000:0:0:0</channel>
 <!--MOVSAT068--> <channel id="DAZN Mundial 3">1:0:1:7894:414:1:C00000:0:0:0</channel>
 <!--MOVSAT069--> <channel id="DAZN Mundial 4">1:0:1:7884:414:1:C00000:0:0:0</channel>
 		
